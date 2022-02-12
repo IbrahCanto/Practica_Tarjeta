@@ -28,6 +28,7 @@ public class MainActivity2 extends AppCompatActivity {
                 NombreUser2 + ", pienso en ti cada tarde cuando camino\n" +
                 NombreUser2 + ", pienso en ti cada noche cuando ceno\n" +
                 "y pienso en ti cada madrugada cuando sueño\n" +
+                        "\n" +
                         "Te lo dedida con mucho amor " + NombreUser
         );
     }

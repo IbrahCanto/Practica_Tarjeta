@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 //Bloque que se ejecuta
-                Toast.makeText(getApplicationContext(), "By Ibrahin Canto Almeida", Toast.LENGTH_LONG).show();
+                Toast.makeText(getApplicationContext(), "By Ibrahin Canto Almeida\n" + "Curso de Titulación Lic. en Informatica", Toast.LENGTH_LONG).show();
                 Log.i("ERROR1", "Diste click en salir");
                 finish();
                 Intent intent = new Intent(Intent.ACTION_MAIN);
