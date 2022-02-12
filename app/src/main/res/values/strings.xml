@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Practica_Tarjeta</string>
+
+    <string name="crush1">Escribe tu nombre</string>
+
+    <string name="btinicio">Comenzar</string>
+
+    <string name="user">Escribe tú nombre</string>
+
+    <string name="user2">Escribe el nombre de tu crush</string>
+
+    <string name="btcancel">Salir</string>
+
+    <string name="btreini">Reiniciar</string>
+
+    <string name="btregresar">Reiniciar</string>
+</resources>
